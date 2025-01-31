@@ -1,6 +1,6 @@
 <h1>Assets:  Editable Checkbox</h1>
 ## Description
-This is a simple checkbox which a user can edit in play. 
+This is a simple checkbox which a user can edit. 
 
 ## Tech Stack
 HTML, CSS
